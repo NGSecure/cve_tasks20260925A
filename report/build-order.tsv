@@ -143,3 +143,13 @@ B	cve-2022-23057	0.30	partial
 B	cve-2023-0739	0.25	partial
 B	cve-2021-46880	0.86	converted
 B	cve-2022-23630	0.58	converted
+A	cve-2016-4484	0.86	runtime-judge
+B	cve-2022-32545	0.78	runtime-judge
+B	cve-2024-22189	0.82	runtime-judge
+B	cve-2022-3969	0.90	runtime-judge
+A	cve-2018-25068	0.86	runtime-judge
+B	cve-2023-45669	0.76	runtime-judge
+B	cve-2023-37261	0.86	runtime-judge
+B	cve-2022-2997	0.75	runtime-judge
+B	cve-2022-39252	0.78	runtime-judge
+A	cve-2020-1917	0.85	runtime-judge
