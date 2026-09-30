@@ -141,3 +141,5 @@ A	cve-2015-8314	0.30	partial
 A	cve-2019-19250	0.30	partial
 B	cve-2022-23057	0.30	partial
 B	cve-2023-0739	0.25	partial
+B	cve-2021-46880	0.86	converted
+B	cve-2022-23630	0.58	converted
